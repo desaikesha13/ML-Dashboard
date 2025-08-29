@@ -1,5 +1,5 @@
 # ML-Dashboard
-##📊 Interactive Machine Learning Dashboard
+# 📊 Interactive Machine Learning Dashboard
 This project is an interactive web application that allows users to select different datasets, choose a machine learning classification algorithm, and tune its hyperparameters in real-time to see how it affects model performance. The dashboard visualizes the dataset using PCA and displays the model's accuracy.
 
 This tool is perfect for learning, demonstrating, and experimenting with some of the most common classification models in machine learning.
